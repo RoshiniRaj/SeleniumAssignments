@@ -1,4 +1,4 @@
-package week5.day1.assignments;
+package week5.day2.assignments;
 
 import java.util.concurrent.TimeUnit;
 
